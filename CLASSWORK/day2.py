@@ -13,5 +13,6 @@ print(total
 con="/n/t THANKU FOR SHOPPING WITH US!"
 print(con)
 
+
 out=a+b+total+con
 print(out.upper())
