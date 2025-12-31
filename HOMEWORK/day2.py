@@ -1,8 +1,11 @@
 course="""              Python is a high-level, interpreted programming language  course known for its simplicity and readability. It supports multiple programming          """
 print(len(course))
+
 print(course[:50])
+
 print(course.replace("python","PYTHON"))
 print(course.lower())
+
 print(course.strip())
 print(course)
 b=course.split(",")
